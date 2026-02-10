@@ -30,6 +30,4 @@ Download & Membership Limits To ensure fair access, we offer the following plans
 
 Explore the full collection here: https://freepicture.cc
 
-Main Website: https://freepicture.cc
-
 Powered by AI, designed for humans. Elevate your project with freepicture.cc.
