@@ -1,4 +1,4 @@
-# Picfre Creative Resources: High-Quality Visual Assets
+# NEW Creative Resources: High-Quality Visual Assets
 
 Welcome to the official community resource repository for freepicture.cc. Our project provides a massive, accessible library of over 710,000 AI-generated images specifically designed for creators, developers, and designers.
 
